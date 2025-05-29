@@ -1,1 +1,1 @@
-web: python run_forwarder.py
+web: python start.py
