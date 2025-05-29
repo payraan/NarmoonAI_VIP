@@ -18,3 +18,4 @@ Set these in Railway:
 
 ## Deployment
 Deploy to Railway and set environment variables.
+# Updated for forwarder deployment
